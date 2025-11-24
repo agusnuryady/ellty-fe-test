@@ -1,3 +1,5 @@
+'use client';
+
 import { SelectPages } from '@/components/SelectPage';
 
 export default function Home() {
