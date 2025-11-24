@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^5.14.7",
     "canvas-confetti": "^1.9.4",
     "next": "16.0.3",
     "react": "19.2.0",
